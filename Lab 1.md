@@ -46,3 +46,13 @@ SHA256          094E2D4EC56C39533CE022C495B68BA6DDCA9C54C351F680AF271B3F6C641F01
 |---|---|
 | SHA-1 | `b2c92a4a06c5c95f070ad9f144e78255a6f7d795` |
 | SHA-256 | `094E2D4EC56C39533CE022C495B68BA6DDCA9C54C351F680AF271B3F6C641F01` |
+
+## Online MD5 Tools
+
+- **Generate an MD5 hash:** [MD5 Hash Generator](https://www.md5hashgenerator.com/)
+- **Look up an MD5 hash:** [GromWeb MD5 Lookup](https://md5.gromweb.com/)
+
+> MD5 is a one-way hash function, so a hash cannot be directly reversed. A lookup tool can only return the original text if it already has a matching value in its database.
+
+
+
